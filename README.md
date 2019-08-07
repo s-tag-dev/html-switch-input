@@ -7,4 +7,4 @@ created by : **Sina Golizade**
 
 website : [S-TAG.IR](http://s-tag.ir)
 
-Instagram : [@sina_developer](http://instagram.com/sina_developer)
+Instagram : [@s_tag_dev](http://instagram.com/s_tag_dev)
